@@ -1,6 +1,7 @@
 #include "stdio.h"
  int main()
 {
+	// agar adde 1 ta 7 ra vared konid,rooze motanazer ba add ra neshan midehad.
 	int Number;
 	printf("Enter Number Between 1 until 7 :\n");
 	scanf(" %d",&Number);
