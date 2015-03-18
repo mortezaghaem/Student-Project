@@ -26,7 +26,9 @@ scanf("%d %d %d",&Number1,&Number2,&Number3);
 		}
 		 if (Number3>Number1 && Number3>Number2)
 		 	printf("Number3 is Max\n");
-	 
+	 // 3 add ra az vorudi migire va moghayese mikone va add bozorgtar moshakhas mikone. 
+
+		 
 /*
 else if (Number1 > Number3)
 {
